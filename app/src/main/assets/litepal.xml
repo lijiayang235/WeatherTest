@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dbname value="cool_weather"></dbname>
+    <version value="1"></version>
+    <list>
+        <mapping class="com.example.weathertest.db.province"></mapping>
+        <mapping class="com.example.weathertest.db.city"></mapping>
+        <mapping class="com.example.weathertest.db.county"></mapping>
+    </list>
+
+</resources>
